@@ -30,8 +30,9 @@ The app follows the **MVVM architecture** combined with **Clean Architecture** p
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Ritikkumar992/NotesApp
 
 
 ### Sample Video link
-<video src="https://github.com/Ritikkumar992/RailwayApp/assets/75531808/2193eddf-7e3d-4063-8ed2-98bb236e3bce"></video>
+<video src="https://drive.google.com/file/d/1DXSAwM-ktKE0fd9Y7os9nGg5YDaPSJVW/view?usp=sharing"></video>
+ 
