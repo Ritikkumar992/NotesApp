@@ -34,5 +34,8 @@ The app follows the **MVVM architecture** combined with **Clean Architecture** p
 
 
 ### Sample Video link
-<video src="https://drive.google.com/file/d/1DXSAwM-ktKE0fd9Y7os9nGg5YDaPSJVW/view?usp=sharing"></video>
- 
+
+
+<a href="https://drive.google.com/file/d/1DXSAwM-ktKE0fd9Y7os9nGg5YDaPSJVW/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/file/d/1DXSAwM-ktKE0fd9Y7os9nGg5YDaPSJVW/view?usp=sharingg" alt="Demo Video" width="600"/>
+</a>
