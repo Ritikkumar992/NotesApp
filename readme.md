@@ -35,5 +35,5 @@ The app follows the **MVVM architecture** combined with **Clean Architecture** p
 ### Watch the Demo Video
 
 <a href="https://drive.google.com/file/d/1DXSAwM-ktKE0fd9Y7os9nGg5YDaPSJVW/view?usp=sharing" target="_blank">
-  <img src="https://static.vecteezy.com/system/resources/previews/023/388/050/original/video-icon-vector.jpg alt="Demo Video">
+  <img src="https://via.placeholder.com/560x315.png?text=Watch+Video" alt="Demo Video">
 </a>
