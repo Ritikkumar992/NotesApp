@@ -32,6 +32,8 @@ The app follows the **MVVM architecture** combined with **Clean Architecture** p
    ```bash
    git clone https://github.com/Ritikkumar992/NotesApp
 
+### Watch the Demo Video
 
-### Sample Video link
-<video src="https://drive.google.com/file/d/1DXSAwM-ktKE0fd9Y7os9nGg5YDaPSJVW/view?usp=sharing"></video>
+<a href="https://drive.google.com/file/d/1DXSAwM-ktKE0fd9Y7os9nGg5YDaPSJVW/view?usp=sharing" target="_blank">
+  <img src="https://via.placeholder.com/560x315.png?text=Watch+Video" alt="Demo Video">
+</a>
